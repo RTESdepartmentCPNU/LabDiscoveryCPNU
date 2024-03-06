@@ -1,0 +1,21 @@
+Output: Gerber Files
+Type  : Gerber
+From  : Variant [[No Variations]] of Project [NGI_Search_StepUp.PrjPcb]
+   Generated File[NGIStepUpPCB.GTL]
+   Generated File[NGIStepUpPCB.GBL]
+   Generated File[NGIStepUpPCB.GTO]
+   Generated File[NGIStepUpPCB.GTP]
+   Generated File[NGIStepUpPCB.GTS]
+   Generated File[NGIStepUpPCB.GBS]
+   Generated File[NGIStepUpPCB.GBP]
+   Generated File[NGIStepUpPCB.GBO]
+   Generated File[NGIStepUpPCB.GM4]
+   Generated File[NGIStepUpPCB.RUL]
+   Generated File[NGIStepUpPCB.EXTREP]
+   Generated File[NGIStepUpPCB.REP]
+
+
+Files Generated   : 12
+Documents Printed : 0
+
+Finished Output Generation At 22:41:50 On 05.03.2024
